@@ -1,4 +1,5 @@
 # API-Automation-Project
+# Public API - https://dog.ceo/dog-api/
 Instructions to run the REST API Project:
 Save the projects in a desired location on your machine e.g Desktop
 Open the command prompt

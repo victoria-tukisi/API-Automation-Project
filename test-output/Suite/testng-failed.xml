@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="CIB_DIGITAL_TECH.ExtentReporterNG"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest">
+        <methods>
+          <include name="getSubBreedsOfRetrieverDog"/>
+          <include name="initializeEnvironment"/>
+        </methods>
+      </class> <!-- CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest -->
+      <class name="CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest">
+        <methods>
+          <include name="initializeEnvironment"/>
+          <include name="getGoldenSubBreedDog"/>
+        </methods>
+      </class> <!-- CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest -->
+      <class name="CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest">
+        <methods>
+          <include name="verifyThatRetrieverBreedDogExists"/>
+          <include name="initializeEnvironment"/>
+        </methods>
+      </class> <!-- CIB_DIGITAL_TECH.CheckRetrieverBreedIsInListTest -->
+      <class name="CIB_DIGITAL_TECH.ListAllBreedDogsTest">
+        <methods>
+          <include name="listAllBreedDogs"/>
+          <include name="initializeEnvironment"/>
+        </methods>
+      </class> <!-- CIB_DIGITAL_TECH.ListAllBreedDogsTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

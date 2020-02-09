@@ -1,0 +1,5 @@
+14:51:36.729 [main] INFO  CIB_DIGITAL_TECH.ListAllBreedDogsTest - The list of all dogs breeds are printed
+14:51:37.424 [main] INFO  CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest - Listed the of sub-breeds for 'retriever' dog
+14:51:38.000 [main] INFO  CIB_DIGITAL_TECH.ProduceAGoldenSubBreedDogImageTest - Successfully extracted 'golden' sub-breed dog
+14:52:54.686 [main] INFO  CIB_DIGITAL_TECH.ListAllBreedDogsTest - The list of all dogs breeds are printed
+14:52:56.324 [main] INFO  CIB_DIGITAL_TECH.ListSubBreedsForRetrieverTest - Listed the of sub-breeds for 'retriever' dog

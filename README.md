@@ -10,3 +10,9 @@ Run the program by using maven commands: > mvn clean
 After successfully running the tests, open the project to extract the report file:
 Goto C:\...\Desktop\TASK1_APP\test-output
 Right-click on a HTLM file called ExtentReportsTestNG.html, and select a desired browser
+
+The performed calls are as stated below:
+o Perform an API request to produce a list of all dog breeds.
+o Using code, verify “retriever” breed is within the list.
+o Perform an API request to produce a list of sub-breeds for “retriever”.
+o Perform an API request to produce a random image / link for the sub-breed “golden”
